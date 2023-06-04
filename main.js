@@ -64,7 +64,7 @@ tippy('#cell1', {
 	'potentially harm their health and growth.',
 	arrow:true,
 	placement: 'bottom',
-	animation: 'shift-away',
+	animation: 'fade',
 	// followCursor: true,
 });
 tippy('#cell2', {
@@ -73,7 +73,7 @@ tippy('#cell2', {
 	'helps maintain adequate moisture for plant health.',
 	arrow:true,
 	placement: 'bottom',
-	animation: 'shift-away',
+	animation: 'fade',
 	// followCursor: true,
 
 });tippy('#cell3', {
@@ -82,7 +82,7 @@ tippy('#cell2', {
 	'for plant growth and development',
 	arrow:true,
 	placement: 'bottom',
-	animation: 'shift-away',
+	animation: 'fade',
 	// followCursor: true,
 });
 tippy('#cell4', {
@@ -90,7 +90,7 @@ tippy('#cell4', {
 	'soil moisture typically provides a balanced environment where plants can thrive.',
 	arrow:true,
 	placement: 'bottom',
-	animation: 'shift-away',
+	animation: 'fade',
 	// followCursor: true,
 });
 tippy('#cell5', {
