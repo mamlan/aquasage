@@ -1,5 +1,5 @@
 # AquaSage
-
+LINK: https://mamlan.github.io/aquasage/
 A website created using HTML/CSS and JavaScript
 
 Description: A web application that Developed a web application that enables users to monitor and test soil moisture levels in real-time for optimal plant care. Implemented a notification system using a Discord Bot that alerts users when it's time to water their plants based on customized thresholds and soil moisture readings.
