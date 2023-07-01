@@ -41,8 +41,6 @@ nav ul li a:hover{
     transition: .3s ease-in-out;
 }
 
-
-
 /*                  intro                 */
 .intro{
     padding: 0 20%;
@@ -62,6 +60,7 @@ table{
     /* min-width: 400px; */
     /* border: 10px; */
 }
+
 
 tr th{
     background-color: #f1f1f1;
@@ -243,7 +242,11 @@ p{
     text-align: left;
 
 }
-
+a:hover {
+    color: green;
+    transition: .3s ease-in-out;
+}
+  
 /*              outro                   */
 
 .icons{
